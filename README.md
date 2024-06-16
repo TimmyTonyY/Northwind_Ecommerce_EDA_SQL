@@ -22,7 +22,7 @@ To use this project:
 * Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/yourusername/Northwind-Ecommerce-Analysis.git
+git clone [https://github.com/yourusername/Northwind-Ecommerce-Analysis.git](https://github.com/TimmyTonyY/Northwind_Ecommerce_EDA_SQL/blob/main/Northwind%20EDA.sql)
 * Open the SQL file (Northwind_Ecommerce_Analysis.sql) in your preferred SQL editor.
 * Connect to your Northwind database.
 * Run the queries step by step to generate insights.
